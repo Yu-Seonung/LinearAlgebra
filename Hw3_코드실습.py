@@ -110,8 +110,3 @@ matrix = np.array([
 ])
 
 print("대각합 =", np.trace(matrix))
-
-# %%
-
-
-
